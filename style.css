@@ -3,7 +3,7 @@ html {
   height: 100%;
   width: 100%;
   margin: 0;
- 
+ padding: 8px;
   font-family: "Inter", sans-serif; /* Using Inter font */
   background-color: #f0f0f8;
   display: flex;
@@ -27,7 +27,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 30px;
+  padding: 20px;
   border-radius: 15px;
   background-color: #ffffff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
@@ -79,8 +79,8 @@ html {
 
 #question {
   font-size: 25px;
-  margin-top: 13%;
-  margin-left: 210px;
+  margin-top: 8%;
+    margin-left: 255px;
   position: absolute;
   font-weight: 200;
 }
